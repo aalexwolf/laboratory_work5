@@ -1,0 +1,6 @@
+D:\bstu\II\1 sem\Лабораторные ООП\Project 5\Project 5\bin\Debug\Project 5.exe.config
+D:\bstu\II\1 sem\Лабораторные ООП\Project 5\Project 5\bin\Debug\Project 5.exe
+D:\bstu\II\1 sem\Лабораторные ООП\Project 5\Project 5\bin\Debug\Project 5.pdb
+D:\bstu\II\1 sem\Лабораторные ООП\Project 5\Project 5\obj\Debug\Project 5.csprojAssemblyReference.cache
+D:\bstu\II\1 sem\Лабораторные ООП\Project 5\Project 5\obj\Debug\Project 5.exe
+D:\bstu\II\1 sem\Лабораторные ООП\Project 5\Project 5\obj\Debug\Project 5.pdb
